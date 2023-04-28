@@ -2,7 +2,7 @@
   "orders": [],
   "products": [
     {
-      "_id": "1",
+      "id": 1,
       "name": "American Coffe",
       "price": 5,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/american-coffee.png",
@@ -10,7 +10,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "2",
+      "id": 2,
       "name": "Coffee with Milk",
       "price": 7,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/coffee-and-milk.png",
@@ -18,7 +18,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "3",
+      "id": 3,
       "name": "Ham and Cheese sandwish",
       "price": 10,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/ham-and-cheese-sandwish.png",
@@ -26,7 +26,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "4",
+      "id": 4,
       "name": "Natural fruit juice",
       "price": 7,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/natural-fruit-juice.png",
@@ -34,7 +34,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "5",
+      "id": 5,
       "name": "Plain Burger",
       "price": 10,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/plain-burger.png",
@@ -42,7 +42,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "6",
+      "id": 6,
       "name": "Double Burger",
       "price": 15,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/double-burger.png",
@@ -50,7 +50,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "7",
+      "id": 7,
       "name": "French Fries",
       "price": 5,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/french-fries.png",
@@ -58,7 +58,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "8",
+      "id": 8,
       "name": "Onion Rings",
       "price": 5,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/onion-rings.png",
@@ -66,7 +66,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "9",
+      "id": 9,
       "name": "Water 500 ml",
       "price": 5,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/water.png",
@@ -74,7 +74,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "10",
+      "id": 10,
       "name": "Water 750 ml",
       "price": 7,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/water.png",
@@ -82,7 +82,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "11",
+      "id": 11,
       "name": "Drink/Soda 500 ml",
       "price": 7,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/soda.png",
@@ -90,7 +90,7 @@
       "dateEntry": "04/04/23"
     },
     {
-      "_id": "12",
+      "id": 12,
       "name": "Drink/Soda 750 ml",
       "price": 10,
       "image": "https://raw.githubusercontent.com/MariCornelio/burger-queen-server-mock/main/resources/images/soda.png",
