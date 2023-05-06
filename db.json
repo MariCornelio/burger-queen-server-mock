@@ -114,6 +114,13 @@
       "name": "Mari Cornelio"
     },
     {
+      "email": "admin@gmail.com",
+      "password": "$2a$06$T9oEonPy4u7SjWQb4kWfYOB3PggjmAZSb4Iy1YxtTee0Y1fwDNMdm",
+      "role": "admin",
+      "id": "2",
+      "name": "Test Administrator"
+    },
+    {
       "email": "waiter1@gmail.com",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "waiter",
@@ -124,21 +131,21 @@
       "email": "waiter2@gmail.com",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "waiter",
-      "id": "4",
+      "id": "5",
       "name": "Mariana Vigo"
     },
     {
       "email": "chef1@gmail.com",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "chef",
-      "id": "5",
+      "id": "6",
       "name": "Karina Aguilar"
     },
     {
       "email": "chef2@gmail.com",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "chef",
-      "id": "5",
+      "id": "7",
       "name": "Remi Gusteau"
     }
   ]
